@@ -1,5 +1,6 @@
 <div style="text-align:center; margin-bottom:20px;">
-  <img src="archive/logo.jpeg.JPG" alt="Beaxis logo" style="height:80px;">
+  <img <div style="text-align:center; margin-bottom:20px;">
+  <img src="logo.jpeg.JPG" alt="Beaxis logo" style="height:80
 </div>
 
 # Beaxis™
